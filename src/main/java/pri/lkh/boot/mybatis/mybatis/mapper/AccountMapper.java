@@ -1,7 +1,7 @@
-package pri.lkh.boot.mybatis.mapper;
+package pri.lkh.boot.mybatis.mybatis.mapper;
 
 import org.apache.ibatis.annotations.Mapper;
-import pri.lkh.boot.mybatis.model.Account;
+import pri.lkh.boot.mybatis.mybatis.model.Account;
 
 import java.util.List;
 

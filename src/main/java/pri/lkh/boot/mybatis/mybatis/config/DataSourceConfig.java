@@ -1,6 +1,6 @@
-package pri.lkh.boot.mybatis.config;
+package pri.lkh.boot.mybatis.mybatis.config;
 
-import pri.lkh.boot.mybatis.MybatisSampleApplication;
+import pri.lkh.boot.mybatis.mybatis.MybatisSampleApplication;
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.context.annotation.Configuration;
 

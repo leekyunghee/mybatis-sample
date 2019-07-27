@@ -1,4 +1,4 @@
-package pri.lkh.boot.mybatis.model;
+package pri.lkh.boot.mybatis.mybatis.model;
 
 import lombok.Data;
 import org.apache.ibatis.type.Alias;

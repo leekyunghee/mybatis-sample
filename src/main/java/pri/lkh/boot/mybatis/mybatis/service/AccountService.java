@@ -1,10 +1,10 @@
-package pri.lkh.boot.mybatis.service;
+package pri.lkh.boot.mybatis.mybatis.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import pri.lkh.boot.mybatis.mapper.AccountMapper;
-import pri.lkh.boot.mybatis.model.Account;
+import pri.lkh.boot.mybatis.mybatis.mapper.AccountMapper;
+import pri.lkh.boot.mybatis.mybatis.model.Account;
 
 import java.util.List;
 

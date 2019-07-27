@@ -1,4 +1,4 @@
-package pri.lkh.boot.mybatis;
+package pri.lkh.boot.mybatis.mybatis;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
